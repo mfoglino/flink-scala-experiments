@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3aee9e6a-74a0-404d-8249-9c0e5a53afeb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flink-scala-wc/src/main/scala/org/apache/flink/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/flink-scala-wc/src/main/scala/org/apache/flink/WordCount.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -58,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677074718110</updated>
-      <workItem from="1677074718708" duration="8770000" />
+      <workItem from="1677074718708" duration="10581000" />
     </task>
     <servers />
   </component>

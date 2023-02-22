@@ -20,7 +20,7 @@ object WordCount {
       .map(value => (value,1))
       .groupBy(0)
       .sum(1)
-    counts.writeAsCsv(params.get("output"), "\n", " ")
+    counts.writeAsCsv(params.get("output_wc"), "\n", " ")
     env.execute("Scala WordCount Example")
   }
 }
